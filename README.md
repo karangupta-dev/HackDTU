@@ -1,0 +1,2 @@
+# HackDTU
+Helping Hand
